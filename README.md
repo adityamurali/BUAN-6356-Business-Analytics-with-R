@@ -1,1 +1,1 @@
-# BUAN-6356-Business-Analytics-with-R
+# Business-Analytics-with-R
